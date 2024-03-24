@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tk2179
 - 👀 I’m interested in data analysis, evaluation, and reporting
-- 🌱 I’m currently learning SQL and R
-- 💞️ I’m looking to collaborate on beginner to intermediate data analysis projects related to public health or education
+- 🌱 I’m currently learning SQL, R, and Python
+- 💞️ I’m looking to collaborate on beginner to intermediate data analysis projects related to public health, healthcare, or education
 - 📫 How to reach me ...here!
 
 <!---
